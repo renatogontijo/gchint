@@ -62,9 +62,9 @@ namespace hchint
 
         private static void ExecNonOp()
         {
-            RunExample[] runObj = new RunExample[1_000_000];
+            RunExample[] runObj = new RunExample[2_000_000];
 
-            for(int i = 0; i < 1_000_000; i++)
+            for(int i = 0; i < 2_000_000; i++)
             {
                 runObj[i] = new RunExample();
                 runObj[i].Noise();
@@ -73,7 +73,7 @@ namespace hchint
 
         private static void ExecOp1()
         {
-            for(int i = 0; i < 1_000_000; i++)
+            for(int i = 0; i < 2_000_000; i++)
             {
                 RunExample runObj = new RunExample();
                 runObj.Noise();
@@ -82,7 +82,7 @@ namespace hchint
 
         private static void ExecOp2()
         {
-            for(int i = 0; i < 1_000_000; i++)
+            for(int i = 0; i < 2_000_000; i++)
             {
                 RunExample runObj = new RunExample();
                 runObj.NoiseOp();
