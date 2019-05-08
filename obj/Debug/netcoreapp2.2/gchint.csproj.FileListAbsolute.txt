@@ -1,0 +1,11 @@
+G:\projetos\hint\gchint\bin\Debug\netcoreapp2.2\gchint.deps.json
+G:\projetos\hint\gchint\bin\Debug\netcoreapp2.2\gchint.runtimeconfig.json
+G:\projetos\hint\gchint\bin\Debug\netcoreapp2.2\gchint.runtimeconfig.dev.json
+G:\projetos\hint\gchint\bin\Debug\netcoreapp2.2\gchint.dll
+G:\projetos\hint\gchint\bin\Debug\netcoreapp2.2\gchint.pdb
+G:\projetos\hint\gchint\obj\Debug\netcoreapp2.2\gchint.csprojAssemblyReference.cache
+G:\projetos\hint\gchint\obj\Debug\netcoreapp2.2\gchint.csproj.CoreCompileInputs.cache
+G:\projetos\hint\gchint\obj\Debug\netcoreapp2.2\gchint.AssemblyInfoInputs.cache
+G:\projetos\hint\gchint\obj\Debug\netcoreapp2.2\gchint.AssemblyInfo.cs
+G:\projetos\hint\gchint\obj\Debug\netcoreapp2.2\gchint.dll
+G:\projetos\hint\gchint\obj\Debug\netcoreapp2.2\gchint.pdb
